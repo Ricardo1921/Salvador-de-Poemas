@@ -1,0 +1,10 @@
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\bin\Debug\salvador de poemas.exe.config
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\bin\Debug\salvador de poemas.exe
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\bin\Debug\salvador de poemas.pdb
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.csprojAssemblyReference.cache
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador_de_poemas.Form1.resources
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador_de_poemas.Properties.Resources.resources
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.csproj.GenerateResource.cache
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.csproj.CoreCompileInputs.cache
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.exe
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.pdb

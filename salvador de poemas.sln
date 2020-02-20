@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salvador de poemas", "salvador de poemas\salvador de poemas.csproj", "{5415F838-5149-405F-88F5-A9B83CB7F8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5415F838-5149-405F-88F5-A9B83CB7F8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5415F838-5149-405F-88F5-A9B83CB7F8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5415F838-5149-405F-88F5-A9B83CB7F8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5415F838-5149-405F-88F5-A9B83CB7F8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656067F7-4E77-4C9C-84A3-F879E9BAD701}
+	EndGlobalSection
+EndGlobal
