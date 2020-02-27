@@ -15,10 +15,40 @@ namespace salvador_de_poemas
                 _texto = File.ReadAllText(_path);
                 return _texto;
             }
-            set { _texto = value; }
+     }
+
+        public string apagar()
+        {
+            _texto = " ";
+
+            return _texto;
+            
+
         }
 
-        public void apagar()
-        
+        public void salvar(string value)
+        {
+            _texto = value;
+            File.WriteAllText(_path , _texto);
+        }
+
+        public string MAIS()
+        {
+            _texto = _texto.ToUpper();
+            return _texto;
+        }
+
+        public string MIN()
+        {
+            _texto = texto.ToLower();
+            return _texto;
+        }
+
+        public string IM()
+        {
+            _texto = char.ToUpper
+        }
+
+
     }
 }

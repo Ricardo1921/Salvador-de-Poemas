@@ -8,3 +8,4 @@ C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salv
 C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.csproj.CoreCompileInputs.cache
 C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.exe
 C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\obj\Debug\salvador de poemas.pdb
+C:\Users\noddy\source\repos\salvador de poemas\salvador de poemas\bin\Debug\Resources\9.txt
